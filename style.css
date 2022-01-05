@@ -43,3 +43,15 @@ h1{
     border-image-slice: 1;
     border-left: 7px solid;
 }
+#bg-color{
+    background-color: rgb(250, 231, 250);
+    border-radius: 5%;
+}
+#bg-color2{
+    background-color: rgb(221, 204, 221);
+    border-radius: 5%
+}
+#bg-color3{
+    background-color: rgb(250, 219, 250);
+    border-radius: 5%
+}
