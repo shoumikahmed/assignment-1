@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 40px;
 }
+.align{
+    margin: 60px;
+}
 .header{
     text-align: center;
 }
@@ -18,10 +21,17 @@ h1{
     color: purple;
 }
 .image{
-    margin-top: -60px;
+    margin-top: -40px;
 }
 .image2{
     padding-left: 110px;
+}
+.image-size{
+    size: 20px;
+}
+.margin{
+    margin-left: -50px;
+    text-align: left;
 }
 .button-link{
     text-decoration: none;
